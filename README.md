@@ -15,5 +15,6 @@
 - MotionLayout
 - ExoPlayer
 - Retrofit
+- Glide
 - Mocky
 - viewBinding
