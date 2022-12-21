@@ -1,9 +1,9 @@
 # 유튜브 앱
 
 ### 프로젝트 소개
-유튜브를 참고하여 만든 영상 플레이 앱
+유튜브 앱을 참고하여 만든 영상 플레이 앱
 
-![youtube_image](https://user-images.githubusercontent.com/120105216/208619445-cef9968a-de67-4f1a-81bf-f9342e84d492.jpeg)
+![200807EA-FFA8-4557-B4EF-8594C2354036-58326-00001866D7BCCADD](https://user-images.githubusercontent.com/120105216/208840344-0858ddbc-db18-4f1f-b517-aeeb362ec9f6.JPG)
 
 ---
 ### 주요 기능
